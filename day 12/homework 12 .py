@@ -1,9 +1,8 @@
 password = 'nika'
 confrim = input('confrim your password: ')
 while confrim != password:
-    confrim = input() if confrim != password:
-    print('incorrect')
+    confrim = input() 
 print('correct')
 
 
-     
+    

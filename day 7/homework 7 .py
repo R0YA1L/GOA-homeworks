@@ -8,12 +8,12 @@ age5 = int(input(' enter your age: '))
 
 print(age1*age2//age3*age4+age5)
 
-
-num = int(input())
-minus = int(input())
-num2 = int(input())
-answear = num + minus + num2
-print(answear)
+# dont mind me trying to make calculator (didnt work)
+# num = int(input())
+# minus = int(input())
+# num2 = int(input())
+# answear = num + minus + num2
+# print(answear)
 
 
 

@@ -6,4 +6,4 @@ print(age, year)
 age2 = age - year
 
 print(' your age will be: ') 
-print(                        age2)
+print(age2)
