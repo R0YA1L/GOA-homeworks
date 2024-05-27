@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(17, 214, 34)
+}
+
+h1 {
+    color:rgb(5, 87, 12)
+}
+
+span {
+    color:rgba(19, 85, 2, 0.582)
+}
+
+span {
+    font-size: 1.50em;
+}
+
+input {
+    background-color: rgb(6, 184, 139);
+    font-size: 20px;
+}
+
+input {
+    color: black;
+}
+
+.btn1 {
+    background-color: rgb(3, 255, 24);
+}
+
+.btn2 {
+    background-color: rgb(241, 8, 8);
+}
+
+.btn1 {
+    font-size: 30px;
+}
+
+.btn2 {
+    font-size: 30px;
+}
+
+
+::placeholder {
+    color: black;
+}
+
+.span1 {
+    color: rgb(0, 0, 0);
+}
+
+h3 {
+    color: rgb(2, 39, 34);
+}
+
+hr {
+    color: black;
+}
+
