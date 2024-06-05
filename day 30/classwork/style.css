@@ -1,0 +1,119 @@
+body {
+    background-color: cornflowerblue;
+}
+
+
+.head1 {
+    color: aqua;
+    font-size: 30px;
+    text-shadow: 4px 7px 10px black;
+    font-family: cursive;
+    text-transform: uppercase;
+    
+}
+
+.head2 {
+    color: red;
+    font-size: 30px;
+    text-shadow: 4px 7px 10px black;
+    font-family: fantasy;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+}
+
+
+.head3 {
+    color: brown;
+    font-size: 30px;
+    text-shadow: 4px 7px 10px black;
+    font-family: monospace;
+    text-transform: uppercase;
+    font-weight: bolder;
+    
+}
+
+.head4 {
+    color:black;
+    font-size: 30px;
+    text-shadow: 4px 7px 10px black;
+    font-family: cursive;
+    text-transform: uppercase;
+    
+}
+
+.btn1 {
+    color: aqua;
+    font-size: 15px;
+    text-shadow: 4px 7px 10px black;
+    font-family: cursive;
+    text-transform: uppercase;
+    background-color: blue;
+}
+
+.btn2 {
+    color: red;
+    font-size: 15px;
+    text-shadow: 4px 7px 10px black;
+    font-family: fantasy;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    background-color: rgb(121, 8, 8);
+}
+
+.btn3 {
+    color: brown;
+    font-size: 15px;
+    text-shadow: 4px 7px 10px black;
+    font-family: monospace;
+    text-transform: uppercase;
+    font-weight: bolder;
+    background-color: rgba(14, 80, 5, 0.959);
+}
+
+
+.btn4 {
+    color:black;
+    font-size: 15px;
+    text-shadow: 4px 7px 10px black;
+    font-family: cursive;
+    text-transform: uppercase;
+    background-color: rgb(255, 255, 255);
+}
+
+.cls1 {
+    color:rgb(49, 132, 228);
+    text-decoration: underline;
+    font-style: italic;
+}
+
+
+.cls2 {
+    color:rgb(145, 20, 15);
+    text-decoration: underline;
+    font-style: italic;
+} 
+
+.cls3 {
+    color:rgba(35, 136, 9, 0.712);
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.cls4 {
+    color:rgb(214, 193, 238);
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.opn {
+    color: black;
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+.bye {
+    color: black;
+    font-family: cursive;
+    text-decoration: underline;
+}

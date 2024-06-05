@@ -1,0 +1,50 @@
+td, th {
+    border: 0.5px solid black;
+    font-family: cursive;
+}
+
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    width: 70%;
+    height: 200px;
+}
+
+
+th {
+    background-color: rgb(93, 201, 228);
+}
+
+
+.A {
+    background-color: rgb(13, 243, 51);
+}
+
+.B {
+    background-color: rgba(57, 192, 4, 0.884);
+}
+
+.C {
+    background-color: rgb(216, 202, 5);
+}
+
+.D {
+    background-color: rgb(201, 91, 1);
+}
+
+.E {
+    background-color: rgb(224, 22, 8);
+}
+
+body {
+    background-color: rgb(59, 156, 13);
+}
+
+
+h1 {
+    color: white;
+    font-family: monospace;
+    font-size: 100px;
+
+}
