@@ -1,0 +1,29 @@
+table {
+    border: 2px solid black;
+    background-color: aqua;
+}
+
+td, th {
+    border: 2px solid black;
+    text-align: center;
+    width: 50px;
+}
+
+body {
+    background-color: darkcyan;
+}
+
+
+.money {
+    background-color: rgb(22, 187, 22);
+}
+
+.day {
+    background-color: rgb(222, 245, 21);
+}
+
+
+.Rank {
+    background-color: rgb(123, 123, 124);
+}
+
